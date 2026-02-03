@@ -5,6 +5,6 @@ The first reason is less coding is required. Artificial intelligence has a lot o
 
 Python is platform independent, project running on different operating systems. Python has package called PI installer which will take care of all the dependency issues when transferring code from one platform to another platform.
 
-Python has massive comminity support
+Python has massive comminity support that will help out with any errors or with any sort of problems in your code. Python has several comminities, several groups, forums in facebook
 
 Scikit-learn is a Python library associated with NumPy and SciPy. It is considered as one of the best libraries for working with complex data.
