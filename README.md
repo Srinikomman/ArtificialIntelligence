@@ -7,4 +7,9 @@ Python is platform independent, project running on different operating systems. 
 
 Python has massive comminity support that will help out with any errors or with any sort of problems in your code. Python has several comminities, several groups, forums in facebook
 
+Different Python packages for artificial intelligence that are specifically used for machine learning, deep learning, natural language processing and so on.
+
+TensorFlow: Popular open source library was developed by Google in collaboration with Brain Team. It is popularly used in machine learning algorithms.
+It has a responsive construct meaning that with tensorflow we can easily visualize each and every part of the graph which is not an option when you are using other packages such as NumPy or Scikit. Tensoflow is flexible in operability meaning that it has modularity and the parts of which you want to make standalone. Using TensorFlow we can tain it on both CPU and GPU, it supports parallel nueral network training. tensor flow offers pipelining in the sense that you can train multiple neural networks and multiple GPUs which makes models very efficient on any large scale system. Parallel neural network traing is supported by TensorFlow
+
 Scikit-learn is a Python library associated with NumPy and SciPy. It is considered as one of the best libraries for working with complex data.
